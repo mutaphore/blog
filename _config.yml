@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "Adventures in software, the mind and road to nirvana"
-subtitle: "A blog by Dewei Chen"
+title: "Reflections"
+subtitle: "A personal journey"
 description:
 keywords:
 author: Dewei Chen
-language:
-timezone:
+language: en
+timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
