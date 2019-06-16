@@ -6,7 +6,7 @@ tags:
 - Paxos
 ---
 
-Paxos is a protocol created by Leslie Lamport that allow distributed nodes to reach agreement on mutually shared state. You can read the original paper here. What makes this protocol powerful is its ability to preserve linearizability across node failures and network partitions. I had the fortunate experience of implementing a paxos library for a distributed systems school project. Here I will talk about, from my perspective, what “preserving linearizability” mean and how Paxos works at an implementation level.
+Paxos is a protocol created by Leslie Lamport that allow distributed nodes to reach agreement on mutually shared state. You can read the original paper [here]. What makes this protocol powerful is its ability to preserve linearizability across node failures and network partitions. I had the fortunate experience of implementing a paxos library for a distributed systems school project. Here I will talk about, from my perspective, what “preserving linearizability” mean and how Paxos works at an implementation level.
 
 <!-- more -->
 
@@ -48,3 +48,5 @@ Historically there has been systems built with consistency models that are not l
 
 ## Paxos and Linearizability
 So why all this fuss about linearizability when we’re talking about Paxos, a consensus algorithm? The implementation I am about to provide in the next part is a linearizable key-value store that uses Paxos to achieve consistency. Hopefully this provides the foundation for understanding what the expected behavior is and how we can use Paxos to achieve it. Stay tuned for part 2!
+
+[here]:https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
