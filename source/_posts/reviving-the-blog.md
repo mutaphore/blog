@@ -1,11 +1,15 @@
 ---
 title: Reviving the blog
-categories:
-- General
 tags: Life
+categories:
+  - General
+date: 2019-06-16 16:15:55
 ---
 
+
 Its been four years since I last touched this blog, I'm going to start writing again. 
+
+<!-- more -->
 
 If you think about it, four years is a long time, even though it doesn't sound like much. Four of anything doesn't sound like much unless if you're talking about number of years in a person's life. I can vaguely recall the direction in life I was heading towards at that time. I was reaching the peak of my intellectual compability. In graduate school, studying probably one of the toughest subjects around, hoping to make a change in my career direction. The summer before I was still working on my undergraduate requirements for Computer Science at San Luis Obispo, looking for graduate programs to transfer to, without the slightest idea where I will end up in the next 2 years. And there I was, in New York City, four years ago.
 
